@@ -28,6 +28,7 @@ filelock==3.0.12
 Flask==1.1.2
 flask_cors
 Flask-SQLAlchemy==2.4.4
+Flask-MonitoringDashboard
 flatbuffers==1.12
 folium==0.11.0
 gast==0.4.0
