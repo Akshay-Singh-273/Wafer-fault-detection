@@ -89,7 +89,7 @@ pytest-mock==3.3.1
 python-dateutil==2.7.5
 pyttsx3==2.87
 pytz==2020.1
-pywin32
+pywin32==304
 PyYAML==3.13
 regex==2020.5.14
 requests==2.23.0
