@@ -125,7 +125,6 @@ virtualenvwrapper-win==1.2.6
 wasabi==0.6.0
 Werkzeug==1.0.1
 wikipedia==1.4.0
-winspeech==1.0.1
 wordcloud==1.8.1
 wrapt==1.12.1
 zipp==3.1.0
