@@ -201,6 +201,7 @@
 					type: "POST",
 					data: {filepath:path},
 					success: function(response){
+						alert("test!!!");
 						$(".json-result").html('<p>"Prediction File created !!!</p><pre>' + response + '</pre>');
 						$('#loading').hide();
 					}
