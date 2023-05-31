@@ -1,4 +1,3 @@
-requirements.txtabsl-py==0.13.0
 appdirs==1.4.3
 asgiref==3.2.10
 astor==0.8.1
