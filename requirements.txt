@@ -55,7 +55,7 @@ matplotlib==3.2.2
 mccabe==0.6.1
 more-itertools==8.5.0
 murmurhash==1.0.2
-mysqlclient @ file:///C:/Users/hp/Downloads/mysqlclient-1.4.6-cp37-cp37m-win_amd64.whl
+mysqlclient==1.4.6
 nltk==3.5
 numpy==1.19.5
 oauthlib==3.1.0
@@ -76,7 +76,7 @@ protobuf==3.11.3
 py==1.9.0
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
-PyAudio @ file:///C:/Users/hp/pipwin/PyAudio-0.2.11-cp37-cp37m-win_amd64.whl
+PyAudio==0.2.11
 pyjsparser==2.7.1
 pylint==2.7.2
 pymongo==3.10.1
