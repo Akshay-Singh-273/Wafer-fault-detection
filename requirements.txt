@@ -102,7 +102,6 @@ soupsieve==2.0.1
 spacy==2.1.9
 scikit-image==0.19.3
 scikit-learn
-sklearn
 SpeechRecognition==3.8.1
 SQLAlchemy==1.2.19
 sqlparse==0.3.1
