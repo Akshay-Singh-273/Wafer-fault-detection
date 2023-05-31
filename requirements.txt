@@ -100,6 +100,8 @@ scipy==1.4.1
 six==1.15.0
 soupsieve==2.0.1
 spacy==2.1.9
+scikit-image==0.19.3
+scikit-learn==1.1.2
 sklearn
 SpeechRecognition==3.8.1
 SQLAlchemy==1.2.19
