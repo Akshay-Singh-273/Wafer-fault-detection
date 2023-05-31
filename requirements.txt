@@ -44,6 +44,7 @@ itsdangerous==1.1.0
 Jinja2==2.11.2
 joblib==0.15.1
 Js2Py==0.70
+kneed
 keras==2.6.0
 Keras-Applications==1.0.8
 Keras-Preprocessing==1.1.0
