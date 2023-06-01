@@ -181,7 +181,7 @@
 				var path = $("#csvfile").val();
 				$.ajax({
 					//change url below
-					url : "/predict",
+					url : '/predict',
 					type: 'POST',
 					data: {filepath:path},
 					success: function(response){
@@ -197,9 +197,10 @@
 				alert("path:"+path);
 				$.ajax({
 					//change url below
-					url : "/predict",
+					url : '/predict',
 					type: 'POST',
 					data: {filepath:path},
+					datatype: 'text',
 					success: function(response){
 						alert("test!!!");
 						$(".json-result").html('<p>"Prediction File created !!!</p><pre>' + response + '</pre>');
